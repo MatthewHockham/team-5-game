@@ -1,4 +1,0 @@
-repository "14.2 Game 2026-01-22_14-41-35/14.2 Game@5773980878391@cloud"
-  path "/"
-    br "/main"
-    co "/main"
